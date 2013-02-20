@@ -78,6 +78,7 @@ body {
 
 .inset .pull-box .circleimg {
 	margin:10px 30px;
+	
 }
 
 .steptwo .span3 {
@@ -137,6 +138,18 @@ h1, h2, h3, h4, h5, h6 {
 
 h1.green, h2.green, h3.green, h4.green, h5.green, h6.green {
 	color:#6fb353;
+}
+
+span.green
+{
+	color:#6fb353;
+	
+}
+
+.paddedleftright
+{
+	padding: 0 80px;
+	line-height: 35px !important;
 }
 
 .greytext {
@@ -392,15 +405,15 @@ nav.blue a {
 }
 
 .options .pull-box-text {
-	width: 53%;
+	width: 65%;
 }
 
 .options .option-sales .pull-box-text {
-	margin: 45px 40px 0px 30px;
+	margin: 55px 40px 0px 30px;
 }
 
 .options .option-account .pull-box-text {
-	margin: 60px 30px 0px 0px;
+	margin: 50px 30px 0px 0px;
 }
 
 .options .option-affiliate .pull-box-text {
@@ -408,24 +421,30 @@ nav.blue a {
 }
 
 .steptwo .pull-box-text {
-	width: 37%;
+	width: 59%;
 }
 
 .steptwo .webinar .pull-box-text {
-	margin: 60px 40px 0px 0px;
+	margin: 71px 40px 0px 0px;
 }
 
 .steptwo .accountsu .pull-box-text {
-	margin: 60px 40px 0px 0px;
+	margin: 71px 40px 0px 0px;
 }
 
 .steptwo .affiliatesu .pull-box-text {
-	margin: 60px 40px 0px 0px;
+	margin: 71px 40px 0px 0px;
 }
 
 .steptwo .btn {
 	width:28%;
 	margin:58px 40px 0px 0px;
+}
+
+.revenueterms
+{
+	font-size: 18px;
+	width: 100%;	
 }
 
 .opportunity .sp {
